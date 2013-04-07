@@ -4,7 +4,7 @@
 
 	<groupId>org.kurtjx.snorql</groupId>
 	<artifactId>snorql-webapp</artifactId>
-	<version>1.0-1-SNAPSHOT</version>
+	<version>1.0-1</version>
 	<packaging>war</packaging>
 
 	<name>SNORQL Sparql Explorer</name>
